@@ -1,4 +1,4 @@
-# Large scale Data Analysis on NYC taxi,
+# Large scale Data Analysis on NYC taxi
 This repo contrains the Spark scala code to perform analysis and build logistic regression model as well as its report.
 ## Programming language:
 Spark scala
